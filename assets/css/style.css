@@ -28,6 +28,7 @@ body {
   .time-block{
     text-align: center;
     border-radius: 15px;
+    
   }
   
   .row {
@@ -70,3 +71,34 @@ body {
     transition: all .3s ease-in-out;
   }
   
+ #hour-1{
+   background-color: lightgray;
+ }
+
+ #hour-2{
+   background-color: lightgray;
+ }
+
+ #hour-3{
+  background-color: lightgray;
+ }
+
+ #hour-4{
+ background-color: red
+}
+
+#hour-5{
+  background-color: limegreen
+ }
+
+ #hour-6{
+  background-color: limegreen
+ }
+
+ #hour-7{
+  background-color: limegreen
+ }
+
+ #hour-8{
+  background-color: limegreen
+ }
